@@ -9,6 +9,7 @@ How To Use:
    type the below code in terminal:
    
    python (python filename) --path (your folder path) --o extension
+   
    eg= python project.py --path E:\folder --o extension
       
 • To Organize with size:
@@ -16,6 +17,7 @@ How To Use:
   type the below code in terminal:
   
   python (python filename) --path (your folder path) --o size
+  
   eg= python project.py --path E:\folder --o size
   
   
