@@ -4,7 +4,12 @@ Junk File Organizer Project:
 How To Use:
   • To Organize with extension:
     type the below code in terminal:
-      python (python filename) --path (your path) --o extension
+      python (python filename) --path (your folder path) --o extension
       eg= python project.py --path E:\folder --o extension
+  • To Organize with size:
+    type the below code in terminal:
+      python (python filename) --path (your folder path) --o size
+      eg= python project.py --path E:\folder --o size
+  
   
 
