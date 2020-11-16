@@ -10,6 +10,10 @@ How To Use:
     type the below code in terminal:
       python (python filename) --path (your folder path) --o size
       eg= python project.py --path E:\folder --o size
+   • To Organize with date:
+    type the below code in terminal:
+      python (python filename) --path (your folder path) --o date
+      eg= python project.py --path E:\folder --o date
   
   
 
